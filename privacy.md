@@ -2,7 +2,7 @@
 
 **Dernière mise à jour :** 02 Janvier 2026
 
-Cette politique de confidentialité explique comment l'application **Le Guide du Pan Bagnat** ("nous", "notre") utilise et protège vos données.
+Cette politique de confidentialité explique comment l'application **SOS Pan Bagnat** ("nous", "notre") utilise et protège vos données.
 
 ## 1. Données de localisation
 Notre application demande l'accès à votre localisation (GPS) pour une seule et unique fonction :
