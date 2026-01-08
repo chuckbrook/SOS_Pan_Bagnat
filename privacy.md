@@ -22,4 +22,4 @@ L'application propose une fonctionnalité de "Pourboire" (Tip Jar) via les achat
 * Nous n'avons jamais accès à vos informations bancaires.
 
 ## 4. Contact
-Si vous avez des questions, vous pouvez nous contacter a l'adresse suivante : sospanbagnat@gmail.com.
+Si vous avez des questions, vous pouvez nous contacter a l'adresse suivante :  [sospanbagnatl@gmail.com](mailto:tsospanbagnat@gmail.com)
