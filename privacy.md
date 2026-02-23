@@ -1,6 +1,6 @@
 # Politique de Confidentialité
 
-**Dernière mise à jour :** 02 Janvier 2026
+**Dernière mise à jour :** 23 février 2026
 
 Cette politique de confidentialité explique comment l'application **SOS Pan Bagnat** ("nous", "notre") utilise et protège vos données.
 
