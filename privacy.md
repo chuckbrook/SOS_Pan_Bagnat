@@ -17,8 +17,8 @@ L'application ne nécessite aucune création de compte.
 * Nous ne vendons aucune donnée à des tiers.
 
 ## 3. Achats Intégrés (Pourboires)
-L'application propose une fonctionnalité de "Pourboire" (Tip Jar) via les achats intégrés d'Apple (In-App Purchases).
-* Toutes les transactions financières sont gérées et sécurisées directement par Apple (App Store).
+L'application propose une fonctionnalité de "Pourboire" (Tip Jar) via les achats intégrés d'Apple ou Google (In-App Purchases).
+* Toutes les transactions financières sont gérées et sécurisées directement par Apple (App Store) ou Google (Play Store).
 * Nous n'avons jamais accès à vos informations bancaires.
 
 ## 4. Contact
